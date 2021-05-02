@@ -9,8 +9,12 @@ To install:
 
 Note: When first applying this theme it's quite common that the panel border will be displayed as a temporary remnant. It will go away after rebooting plasmashell process or plasma session. Also, don't forget to turn off the blur effect in desktop effects!
 
-
 Release Notes:
+
+Version: 4.1
+
+- updated metadata.desktop file
+- converted all svgz files from 90 to 96 DPI
 
 Version: 4.0
 
