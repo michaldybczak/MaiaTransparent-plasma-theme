@@ -11,6 +11,12 @@ Note: When first applying this theme it's quite common that the panel border wil
 
 Release Notes:
 
+Version: 4.2
+
+ Update metadata.desktop
+
+In metadata.desktop removed a duplicated line: "X-KDE-PluginInfo-Category=Plasma Theme" that interfered with the downloader.
+
 Version: 4.1
 
 - updated metadata.desktop file
